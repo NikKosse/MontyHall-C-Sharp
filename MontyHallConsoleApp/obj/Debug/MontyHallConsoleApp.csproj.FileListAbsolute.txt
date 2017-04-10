@@ -1,0 +1,8 @@
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallConsoleApp\bin\Debug\MontyHallConsoleApp.exe.config
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallConsoleApp\bin\Debug\MontyHallConsoleApp.exe
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallConsoleApp\bin\Debug\MontyHallConsoleApp.pdb
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallConsoleApp\bin\Debug\MontyHallProblem.dll
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallConsoleApp\bin\Debug\MontyHallProblem.pdb
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallConsoleApp\obj\Debug\MontyHallConsoleApp.csprojResolveAssemblyReference.cache
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallConsoleApp\obj\Debug\MontyHallConsoleApp.exe
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallConsoleApp\obj\Debug\MontyHallConsoleApp.pdb

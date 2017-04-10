@@ -1,0 +1,7 @@
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblem\bin\Debug\MontyHallProblem.dll
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblem\bin\Debug\MontyHallProblem.pdb
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblem\bin\Debug\nunit.framework.dll
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblem\bin\Debug\nunit.framework.xml
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblem\obj\Debug\MontyHallProblem.dll
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblem\obj\Debug\MontyHallProblem.pdb
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblem\obj\Debug\MontyHallProblem.csprojResolveAssemblyReference.cache

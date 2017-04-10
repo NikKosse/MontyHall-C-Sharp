@@ -1,0 +1,13 @@
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\bin\Debug\MontyHallProblemTests.dll
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\bin\Debug\MontyHallProblemTests.pdb
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\bin\Debug\MontyHallProblem.dll
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\bin\Debug\MontyHallProblem.pdb
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\obj\Debug\MontyHallProblemTests.csprojResolveAssemblyReference.cache
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\obj\Debug\MontyHallProblemTests.dll
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\obj\Debug\MontyHallProblemTests.pdb
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\bin\Debug\Telerik.JustMock.dll
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\bin\Debug\Telerik.JustMock.xml
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\bin\Debug\MontyHallConsoleApp.exe
+F:\TFS Projects\CodeForFun\MontyHallProblem\MontyHallProblemTests\bin\Debug\MontyHallConsoleApp.pdb
